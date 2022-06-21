@@ -1,10 +1,10 @@
 <div align="center" >
   <h1>Hi I'm Wildson Scantbelruy</h1>
        </div>
-<div align="center">
+<div align=>
   <a href="https://github.com/Wildson-scantbelruy">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WildsonScantbelruy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WildsonScantbelruy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WildsonScantbelruy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+ 
 </div>
   
   <div style="display: inline_block"><br>
